@@ -9,6 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
   </head>
   <body>
 	<header>
